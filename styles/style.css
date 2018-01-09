@@ -1,3 +1,9 @@
-p {
-  color: red;
+p, li, h1 {
+  color: green;
+}
+.quote {
+	color: red;
+}
+#mainquote {
+	color: yellow;
 }
